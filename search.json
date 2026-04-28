@@ -32,21 +32,28 @@
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "Download PDF version"
+    "text": "Download PDF"
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
     "title": "CV",
     "section": "Education",
-    "text": "Education\nPh.D. in [Field] — [University], [Expected Year] Dissertation: “[Dissertation Title]” Advisor: [Advisor Name]\nM.A. in [Field] — [University], [Year]\nB.A. in [Field] — [University], [Year]"
+    "text": "Education\nPh.D. in Political Science — University of Pittsburgh, 2023\n[B.A. / M.A. — TODO]"
+  },
+  {
+    "objectID": "cv.html#positions",
+    "href": "cv.html#positions",
+    "title": "CV",
+    "section": "Positions",
+    "text": "Positions\nPostdoctoral Researcher — University of Copenhagen, 2023–present Department of Political Science"
   },
   {
     "objectID": "cv.html#research-interests",
     "href": "cv.html#research-interests",
     "title": "CV",
     "section": "Research Interests",
-    "text": "Research Interests\n[Area 1], [Area 2], [Area 3]"
+    "text": "Research Interests\nComparative politics, political behavior, political parties, electoral politics, identity politics"
   },
   {
     "objectID": "cv.html#publications",
@@ -56,18 +63,11 @@
     "text": "Publications\nSee Publications page."
   },
   {
-    "objectID": "cv.html#working-papers",
-    "href": "cv.html#working-papers",
+    "objectID": "cv.html#works-in-progress",
+    "href": "cv.html#works-in-progress",
     "title": "CV",
-    "section": "Working Papers",
-    "text": "Working Papers\n\n[Paper Title]. ([Year]). [Status: under review / revise & resubmit at Journal Name]."
-  },
-  {
-    "objectID": "cv.html#work-in-progress",
-    "href": "cv.html#work-in-progress",
-    "title": "CV",
-    "section": "Work in Progress",
-    "text": "Work in Progress\n\n[Paper Title]."
+    "section": "Works in Progress",
+    "text": "Works in Progress\n\n[Add working paper titles here]"
   },
   {
     "objectID": "cv.html#teaching-experience",
@@ -81,21 +81,14 @@
     "href": "cv.html#awards-fellowships",
     "title": "CV",
     "section": "Awards & Fellowships",
-    "text": "Awards & Fellowships\n\n[Award Name], [Institution], [Year]\n[Fellowship Name], [Institution], [Year]"
+    "text": "Awards & Fellowships\n\n[Award Name], [Institution], [Year]"
   },
   {
     "objectID": "cv.html#presentations",
     "href": "cv.html#presentations",
     "title": "CV",
     "section": "Presentations",
-    "text": "Presentations\n\n[Conference Name], [Location], [Year]\n[Workshop Name], [Location], [Year]"
-  },
-  {
-    "objectID": "cv.html#service",
-    "href": "cv.html#service",
-    "title": "CV",
-    "section": "Service",
-    "text": "Service\n\n[Role], [Organization], [Year–Year]"
+    "text": "Presentations\n\n[Conference Name], [Location], [Year]"
   },
   {
     "objectID": "cv.html#references",
@@ -109,41 +102,41 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My work sits at the intersection of [Area 1] and [Area 2]. I am primarily interested in questions about [broad theme], with a focus on [specific angle or methodology]."
+    "text": "My research sits at the intersection of comparative politics and political behavior, focusing on how voters and parties in advanced democracies mutually influence one another."
   },
   {
-    "objectID": "research.html#research-interests",
-    "href": "research.html#research-interests",
+    "objectID": "research.html#party-rebranding",
+    "href": "research.html#party-rebranding",
     "title": "Research",
-    "section": "",
-    "text": "My work sits at the intersection of [Area 1] and [Area 2]. I am primarily interested in questions about [broad theme], with a focus on [specific angle or methodology]."
+    "section": "Party Rebranding",
+    "text": "Party Rebranding\nIn my dissertation, I argue that parties, like corporations, can ‘rebrand’ — not only through policy shifts but also through symbolic changes to their name and logo. This framework broadens the concept of rebranding to include symbolic attributes and demonstrates their substantive importance for parties. I show that symbolic rebranding has meaningful electoral consequences and shapes how voters perceive and evaluate parties.\nThis work has been published in the European Journal of Political Research and Party Politics. See the Publications page for details."
   },
   {
-    "objectID": "research.html#working-papers",
-    "href": "research.html#working-papers",
+    "objectID": "research.html#e.-pluribus-plures",
+    "href": "research.html#e.-pluribus-plures",
     "title": "Research",
-    "section": "Working Papers",
-    "text": "Working Papers\n[Paper Title One] (under review)\n[One to two sentence abstract or summary. Explain the research question, the approach, and the main finding.]\n[Paper Title Two] (working paper)\n[One to two sentence abstract or summary.]"
+    "section": "E. Pluribus Plures",
+    "text": "E. Pluribus Plures\nIn my postdoctoral work, I am collaborating with Peter Thisted Dinesen (University of Copenhagen) on the “E. Pluribus Plures” research project. This project explores different dimensions of identity politics and its consequences across Western societies, including electoral outcomes, social trust, and social cohesion."
   },
   {
-    "objectID": "research.html#work-in-progress",
-    "href": "research.html#work-in-progress",
+    "objectID": "research.html#works-in-progress",
+    "href": "research.html#works-in-progress",
     "title": "Research",
-    "section": "Work in Progress",
-    "text": "Work in Progress\n\n[Project Title] — [Brief description, one sentence]\n[Project Title] — [Brief description, one sentence]"
+    "section": "Works in Progress",
+    "text": "Works in Progress\n\n[Add working paper titles here]"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Matthias Avina",
     "section": "",
-    "text": "Postdoctoral Researcher [Department / Group — TODO] University of Copenhagen\nI am a postdoctoral researcher at the University of Copenhagen. [TODO: one-sentence summary of research interests and approach.]\n[TODO: optional second sentence — previous position, dissertation topic, or broader context.]\n\nContact\n\nEmail: mav@ifs.ku.dk\nOffice: [Room, Building — TODO]"
+    "text": "Postdoctoral Researcher Department of Political Science University of Copenhagen\nHello there! I am a postdoctoral researcher at the University of Copenhagen. My research sits at the intersection of comparative politics and political behavior and seeks to explain how voters and parties in advanced democracies mutually influence one another.\nIn my dissertation, I argue that parties, like corporations, can ‘rebrand,’ not only through policy shifts but also through symbolic changes to their name and logo. This framework broadens the concept of rebranding to include symbolic attributes and demonstrates their substantive importance for parties. My work on this topic has been published in the European Journal of Political Research and Party Politics.\nIn my postdoctoral work, I am working with Peter Thisted Dinesen on the “E. Pluribus Plures” research project. In this project, we explore different dimensions of identity politics as well as its consequences across Western societies in terms of electoral outcomes, social trust, and social cohesion.\nPrior to joining UCPH, I received my PhD in political science from the University of Pittsburgh in 2023.\n\nContact\n\nEmail: mav@ifs.ku.dk\nOffice: [Room, Building — TODO]\nGoogle Scholar \nCV"
   },
   {
     "objectID": "index.html#matthias-avina",
     "href": "index.html#matthias-avina",
     "title": "Matthias Avina",
     "section": "",
-    "text": "Postdoctoral Researcher [Department / Group — TODO] University of Copenhagen\nI am a postdoctoral researcher at the University of Copenhagen. [TODO: one-sentence summary of research interests and approach.]\n[TODO: optional second sentence — previous position, dissertation topic, or broader context.]\n\nContact\n\nEmail: mav@ifs.ku.dk\nOffice: [Room, Building — TODO]"
+    "text": "Postdoctoral Researcher Department of Political Science University of Copenhagen\nHello there! I am a postdoctoral researcher at the University of Copenhagen. My research sits at the intersection of comparative politics and political behavior and seeks to explain how voters and parties in advanced democracies mutually influence one another.\nIn my dissertation, I argue that parties, like corporations, can ‘rebrand,’ not only through policy shifts but also through symbolic changes to their name and logo. This framework broadens the concept of rebranding to include symbolic attributes and demonstrates their substantive importance for parties. My work on this topic has been published in the European Journal of Political Research and Party Politics.\nIn my postdoctoral work, I am working with Peter Thisted Dinesen on the “E. Pluribus Plures” research project. In this project, we explore different dimensions of identity politics as well as its consequences across Western societies in terms of electoral outcomes, social trust, and social cohesion.\nPrior to joining UCPH, I received my PhD in political science from the University of Pittsburgh in 2023.\n\nContact\n\nEmail: mav@ifs.ku.dk\nOffice: [Room, Building — TODO]\nGoogle Scholar \nCV"
   }
 ]
