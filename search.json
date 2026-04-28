@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "All publications are listed below. For working papers and works in progress, see the Research page."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "[Course Name] — [Course Number] [Term, Year] [Brief description: level, enrollment, your role (instructor/TA).]\n[Course Name] — [Course Number] [Term, Year] [Brief description.]\n\n\n\n\n[Course Name] — [Course Number], [University Name] [Term, Year] Instructor: [Professor Name]\n[Course Name] — [Course Number], [University Name] [Term, Year] Instructor: [Professor Name]"
+  },
+  {
+    "objectID": "teaching.html#teaching",
+    "href": "teaching.html#teaching",
+    "title": "Teaching",
+    "section": "",
+    "text": "[Course Name] — [Course Number] [Term, Year] [Brief description: level, enrollment, your role (instructor/TA).]\n[Course Name] — [Course Number] [Term, Year] [Brief description.]\n\n\n\n\n[Course Name] — [Course Number], [University Name] [Term, Year] Instructor: [Professor Name]\n[Course Name] — [Course Number], [University Name] [Term, Year] Instructor: [Professor Name]"
+  },
+  {
+    "objectID": "teaching.html#teaching-philosophy",
+    "href": "teaching.html#teaching-philosophy",
+    "title": "Teaching",
+    "section": "Teaching Philosophy",
+    "text": "Teaching Philosophy\n[Optional: a short paragraph on your approach to teaching, 3–5 sentences.]"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download PDF version"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\nPh.D. in [Field] — [University], [Expected Year] Dissertation: “[Dissertation Title]” Advisor: [Advisor Name]\nM.A. in [Field] — [University], [Year]\nB.A. in [Field] — [University], [Year]"
+  },
+  {
+    "objectID": "cv.html#research-interests",
+    "href": "cv.html#research-interests",
+    "title": "CV",
+    "section": "Research Interests",
+    "text": "Research Interests\n[Area 1], [Area 2], [Area 3]"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "CV",
+    "section": "Publications",
+    "text": "Publications\nSee Publications page."
+  },
+  {
+    "objectID": "cv.html#working-papers",
+    "href": "cv.html#working-papers",
+    "title": "CV",
+    "section": "Working Papers",
+    "text": "Working Papers\n\n[Paper Title]. ([Year]). [Status: under review / revise & resubmit at Journal Name]."
+  },
+  {
+    "objectID": "cv.html#work-in-progress",
+    "href": "cv.html#work-in-progress",
+    "title": "CV",
+    "section": "Work in Progress",
+    "text": "Work in Progress\n\n[Paper Title]."
+  },
+  {
+    "objectID": "cv.html#teaching-experience",
+    "href": "cv.html#teaching-experience",
+    "title": "CV",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\n[Course Name] — [University], [Term Year] Role: [Instructor / Teaching Assistant]"
+  },
+  {
+    "objectID": "cv.html#awards-fellowships",
+    "href": "cv.html#awards-fellowships",
+    "title": "CV",
+    "section": "Awards & Fellowships",
+    "text": "Awards & Fellowships\n\n[Award Name], [Institution], [Year]\n[Fellowship Name], [Institution], [Year]"
+  },
+  {
+    "objectID": "cv.html#presentations",
+    "href": "cv.html#presentations",
+    "title": "CV",
+    "section": "Presentations",
+    "text": "Presentations\n\n[Conference Name], [Location], [Year]\n[Workshop Name], [Location], [Year]"
+  },
+  {
+    "objectID": "cv.html#service",
+    "href": "cv.html#service",
+    "title": "CV",
+    "section": "Service",
+    "text": "Service\n\n[Role], [Organization], [Year–Year]"
+  },
+  {
+    "objectID": "cv.html#references",
+    "href": "cv.html#references",
+    "title": "CV",
+    "section": "References",
+    "text": "References\nAvailable upon request."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My work sits at the intersection of [Area 1] and [Area 2]. I am primarily interested in questions about [broad theme], with a focus on [specific angle or methodology]."
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "",
+    "text": "My work sits at the intersection of [Area 1] and [Area 2]. I am primarily interested in questions about [broad theme], with a focus on [specific angle or methodology]."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working Papers",
+    "text": "Working Papers\n[Paper Title One] (under review)\n[One to two sentence abstract or summary. Explain the research question, the approach, and the main finding.]\n[Paper Title Two] (working paper)\n[One to two sentence abstract or summary.]"
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in Progress",
+    "text": "Work in Progress\n\n[Project Title] — [Brief description, one sentence]\n[Project Title] — [Brief description, one sentence]"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Matthias Avina",
+    "section": "",
+    "text": "Postdoctoral Researcher [Department / Group — TODO] University of Copenhagen\nI am a postdoctoral researcher at the University of Copenhagen. [TODO: one-sentence summary of research interests and approach.]\n[TODO: optional second sentence — previous position, dissertation topic, or broader context.]\n\nContact\n\nEmail: mav@ifs.ku.dk\nOffice: [Room, Building — TODO]"
+  },
+  {
+    "objectID": "index.html#matthias-avina",
+    "href": "index.html#matthias-avina",
+    "title": "Matthias Avina",
+    "section": "",
+    "text": "Postdoctoral Researcher [Department / Group — TODO] University of Copenhagen\nI am a postdoctoral researcher at the University of Copenhagen. [TODO: one-sentence summary of research interests and approach.]\n[TODO: optional second sentence — previous position, dissertation topic, or broader context.]\n\nContact\n\nEmail: mav@ifs.ku.dk\nOffice: [Room, Building — TODO]"
+  }
+]
