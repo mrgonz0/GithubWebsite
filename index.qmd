@@ -6,7 +6,7 @@ page-layout: full
 :::: {.columns}
 
 ::: {.column width="30%"}
-![](assets/profile.jpg){.rounded width="200px"}
+![](assets/profile.png){.rounded width="200px"}
 :::
 
 ::: {.column width="70%"}

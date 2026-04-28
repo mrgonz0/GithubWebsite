@@ -2,23 +2,6 @@
 title: "Research"
 ---
 
-My research sits at the intersection of comparative politics and political behavior, focusing on how voters and parties in advanced democracies mutually influence one another.
-
----
-
-## Party Rebranding
-
-In my dissertation, I argue that parties, like corporations, can 'rebrand' — not only through policy shifts but also through symbolic changes to their name and logo. This framework broadens the concept of rebranding to include symbolic attributes and demonstrates their substantive importance for parties. I show that symbolic rebranding has meaningful electoral consequences and shapes how voters perceive and evaluate parties.
-
-This work has been published in the *European Journal of Political Research* and *Party Politics*. See the [Publications](publications.qmd) page for details.
-
----
-
-## E. Pluribus Plures
-
-In my postdoctoral work, I am collaborating with Peter Thisted Dinesen (University of Copenhagen) on the **"E. Pluribus Plures"** research project. This project explores different dimensions of identity politics and its consequences across Western societies, including electoral outcomes, social trust, and social cohesion.
-
----
 
 ## Works in Progress
 

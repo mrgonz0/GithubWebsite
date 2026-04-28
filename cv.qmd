@@ -2,7 +2,7 @@
 title: "CV"
 ---
 
-[Download PDF](assets/cv.pdf){.btn .btn-outline-secondary .btn-sm}
+[Download PDF](assets/Avina_CV_2026.pdf){.btn .btn-outline-secondary .btn-sm}
 
 ---
 
