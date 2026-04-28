@@ -1,0 +1,48 @@
+/* Typography */
+body {
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+/* Navbar */
+.navbar {
+  border-bottom: 1px solid #e9ecef;
+}
+
+/* Home page profile */
+.rounded {
+  border-radius: 8px;
+}
+
+/* Content width */
+.page-layout-full .page-columns {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* Horizontal rules as section dividers */
+hr {
+  margin: 2rem 0;
+  border-color: #e9ecef;
+}
+
+/* Publication list spacing */
+#refs div {
+  margin-bottom: 1.2rem;
+}
+
+/* Button styling */
+.btn-outline-secondary {
+  font-size: 0.85rem;
+}
+
+/* Footer */
+.nav-footer {
+  border-top: 1px solid #e9ecef;
+  font-size: 0.85rem;
+  color: #6c757d;
+}

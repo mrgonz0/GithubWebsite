@@ -1,0 +1,33 @@
+---
+title: ""
+page-layout: full
+---
+
+:::: {.columns}
+
+::: {.column width="30%"}
+![](assets/profile.jpg){.rounded width="200px"}
+:::
+
+::: {.column width="70%"}
+## Your Name
+
+**Position Title**
+Department of [Field]
+[University Name]
+
+I am a [career stage] in [field] at [institution]. My research focuses on [one-sentence summary of research interests]. I am particularly interested in [specific topic].
+
+Before joining [institution], I [previous position or education].
+
+::: {.mt-3}
+**Contact**
+
+- {{< fa envelope >}} [youremail@university.edu](mailto:youremail@university.edu)
+- {{< fa building >}} Office: [Room Number, Building]
+- {{< fa brands github >}} [github.com/yourgithubusername](https://github.com/yourgithubusername)
+:::
+
+:::
+
+::::

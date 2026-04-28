@@ -1,0 +1,17 @@
+---
+title: "Publications"
+bibliography: references.bib
+nocite: '@*'
+csl: chicago-author-date.csl
+---
+
+All publications are listed below. For working papers and works in progress, see the [Research](research.qmd) page.
+
+<!--
+  To update publications: edit references.bib.
+  To change citation style: replace chicago-author-date.csl with another CSL file.
+  Common styles: apa.csl, nature.csl, chicago-author-date.csl
+  Download CSL files from: https://www.zotero.org/styles
+-->
+
+## References

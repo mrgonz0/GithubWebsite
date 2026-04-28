@@ -1,0 +1,33 @@
+---
+title: "Teaching"
+---
+
+## Teaching
+
+### [University Name]
+
+**[Course Name]** — [Course Number]
+*[Term, Year]*
+[Brief description: level, enrollment, your role (instructor/TA).]
+
+**[Course Name]** — [Course Number]
+*[Term, Year]*
+[Brief description.]
+
+---
+
+### Teaching Assistant
+
+**[Course Name]** — [Course Number], [University Name]
+*[Term, Year]*
+Instructor: [Professor Name]
+
+**[Course Name]** — [Course Number], [University Name]
+*[Term, Year]*
+Instructor: [Professor Name]
+
+---
+
+## Teaching Philosophy
+
+[Optional: a short paragraph on your approach to teaching, 3–5 sentences.]

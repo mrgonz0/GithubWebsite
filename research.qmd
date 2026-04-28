@@ -1,0 +1,26 @@
+---
+title: "Research"
+---
+
+## Research Interests
+
+My work sits at the intersection of [Area 1] and [Area 2]. I am primarily interested in questions about [broad theme], with a focus on [specific angle or methodology].
+
+---
+
+## Working Papers
+
+**[Paper Title One]** *(under review)*
+
+[One to two sentence abstract or summary. Explain the research question, the approach, and the main finding.]
+
+**[Paper Title Two]** *(working paper)*
+
+[One to two sentence abstract or summary.]
+
+---
+
+## Work in Progress
+
+- **[Project Title]** — [Brief description, one sentence]
+- **[Project Title]** — [Brief description, one sentence]

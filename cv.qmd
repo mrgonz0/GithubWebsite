@@ -1,0 +1,74 @@
+---
+title: "CV"
+---
+
+[Download PDF version](assets/cv.pdf){.btn .btn-outline-secondary .btn-sm}
+
+---
+
+## Education
+
+**Ph.D. in [Field]** — [University], [Expected Year]
+Dissertation: "[Dissertation Title]"
+Advisor: [Advisor Name]
+
+**M.A. in [Field]** — [University], [Year]
+
+**B.A. in [Field]** — [University], [Year]
+
+---
+
+## Research Interests
+
+[Area 1], [Area 2], [Area 3]
+
+---
+
+## Publications
+
+See [Publications](publications.qmd) page.
+
+---
+
+## Working Papers
+
+- **[Paper Title]**. ([Year]). [Status: under review / revise & resubmit at Journal Name].
+
+---
+
+## Work in Progress
+
+- **[Paper Title]**.
+
+---
+
+## Teaching Experience
+
+**[Course Name]** — [University], [Term Year]
+Role: [Instructor / Teaching Assistant]
+
+---
+
+## Awards & Fellowships
+
+- [Award Name], [Institution], [Year]
+- [Fellowship Name], [Institution], [Year]
+
+---
+
+## Presentations
+
+- [Conference Name], [Location], [Year]
+- [Workshop Name], [Location], [Year]
+
+---
+
+## Service
+
+- [Role], [Organization], [Year–Year]
+
+---
+
+## References
+
+Available upon request.
