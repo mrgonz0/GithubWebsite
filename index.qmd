@@ -10,22 +10,21 @@ page-layout: full
 :::
 
 ::: {.column width="70%"}
-## Your Name
+## Matthias Avina
 
-**Position Title**
-Department of [Field]
-[University Name]
+**Postdoctoral Researcher**
+[Department / Group — TODO]
+University of Copenhagen
 
-I am a [career stage] in [field] at [institution]. My research focuses on [one-sentence summary of research interests]. I am particularly interested in [specific topic].
+I am a postdoctoral researcher at the University of Copenhagen. [TODO: one-sentence summary of research interests and approach.]
 
-Before joining [institution], I [previous position or education].
+[TODO: optional second sentence — previous position, dissertation topic, or broader context.]
 
 ::: {.mt-3}
 **Contact**
 
-- {{< fa envelope >}} [youremail@university.edu](mailto:youremail@university.edu)
-- {{< fa building >}} Office: [Room Number, Building]
-- {{< fa brands github >}} [github.com/yourgithubusername](https://github.com/yourgithubusername)
+- Email: [mav@ifs.ku.dk](mailto:mav@ifs.ku.dk)
+- Office: [Room, Building — TODO]
 :::
 
 :::

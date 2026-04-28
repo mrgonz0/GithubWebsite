@@ -3,9 +3,9 @@ project:
   output-dir: _site
 
 website:
-  title: "Your Name"
-  description: "Academic website of Your Name"
-  site-url: "https://yourgithubusername.github.io/GithubWebsite"
+  title: "Matthias Avina"
+  description: "Academic website of Matthias Avina"
+  site-url: "https://matthiasavina.com"
 
   navbar:
     left:
@@ -19,13 +19,9 @@ website:
         text: Teaching
       - href: cv.qmd
         text: CV
-    right:
-      - icon: github
-        href: https://github.com/yourgithubusername
-        aria-label: GitHub
 
   page-footer:
-    center: "© 2026 Your Name · Built with [Quarto](https://quarto.org)"
+    center: "© 2026 Matthias Avina · Built with [Quarto](https://quarto.org)"
 
 format:
   html:
