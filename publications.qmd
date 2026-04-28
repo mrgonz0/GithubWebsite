@@ -2,7 +2,6 @@
 title: "Publications"
 bibliography: references.bib
 nocite: '@*'
-csl: chicago-author-date.csl
 ---
 
 All publications are listed below. For working papers and works in progress, see the [Research](research.qmd) page.
