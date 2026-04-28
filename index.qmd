@@ -25,6 +25,8 @@ I am a postdoctoral researcher at the University of Copenhagen. [TODO: one-sente
 
 - Email: [mav@ifs.ku.dk](mailto:mav@ifs.ku.dk)
 - Office: [Room, Building — TODO]
+- [Google Scholar](#) <!-- TODO: replace # with your Google Scholar URL -->
+- [CV](assets/cv.pdf)
 :::
 
 :::
