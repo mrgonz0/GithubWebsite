@@ -2,25 +2,24 @@
 title: "Research"
 ---
 
-## Research Interests
-
-My work sits at the intersection of [Area 1] and [Area 2]. I am primarily interested in questions about [broad theme], with a focus on [specific angle or methodology].
+My research sits at the intersection of comparative politics and political behavior, focusing on how voters and parties in advanced democracies mutually influence one another.
 
 ---
 
-## Working Papers
+## Party Rebranding
 
-**[Paper Title One]** *(under review)*
+In my dissertation, I argue that parties, like corporations, can 'rebrand' — not only through policy shifts but also through symbolic changes to their name and logo. This framework broadens the concept of rebranding to include symbolic attributes and demonstrates their substantive importance for parties. I show that symbolic rebranding has meaningful electoral consequences and shapes how voters perceive and evaluate parties.
 
-[One to two sentence abstract or summary. Explain the research question, the approach, and the main finding.]
-
-**[Paper Title Two]** *(working paper)*
-
-[One to two sentence abstract or summary.]
+This work has been published in the *European Journal of Political Research* and *Party Politics*. See the [Publications](publications.qmd) page for details.
 
 ---
 
-## Work in Progress
+## E. Pluribus Plures
 
-- **[Project Title]** — [Brief description, one sentence]
-- **[Project Title]** — [Brief description, one sentence]
+In my postdoctoral work, I am collaborating with Peter Thisted Dinesen (University of Copenhagen) on the **"E. Pluribus Plures"** research project. This project explores different dimensions of identity politics and its consequences across Western societies, including electoral outcomes, social trust, and social cohesion.
+
+---
+
+## Works in Progress
+
+- [Add working paper titles here]

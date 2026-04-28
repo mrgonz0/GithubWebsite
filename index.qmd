@@ -13,19 +13,23 @@ page-layout: full
 ## Matthias Avina
 
 **Postdoctoral Researcher**
-[Department / Group — TODO]
+Department of Political Science
 University of Copenhagen
 
-I am a postdoctoral researcher at the University of Copenhagen. [TODO: one-sentence summary of research interests and approach.]
+Hello there! I am a postdoctoral researcher at the University of Copenhagen. My research sits at the intersection of comparative politics and political behavior and seeks to explain how voters and parties in advanced democracies mutually influence one another.
 
-[TODO: optional second sentence — previous position, dissertation topic, or broader context.]
+In my dissertation, I argue that parties, like corporations, can 'rebrand,' not only through policy shifts but also through symbolic changes to their name and logo. This framework broadens the concept of rebranding to include symbolic attributes and demonstrates their substantive importance for parties. My work on this topic has been published in the *European Journal of Political Research* and *Party Politics*.
+
+In my postdoctoral work, I am working with Peter Thisted Dinesen on the "E. Pluribus Plures" research project. In this project, we explore different dimensions of identity politics as well as its consequences across Western societies in terms of electoral outcomes, social trust, and social cohesion.
+
+Prior to joining UCPH, I received my PhD in political science from the University of Pittsburgh in 2023.
 
 ::: {.mt-3}
 **Contact**
 
 - Email: [mav@ifs.ku.dk](mailto:mav@ifs.ku.dk)
 - Office: [Room, Building — TODO]
-- [Google Scholar](#) <!-- TODO: replace # with your Google Scholar URL -->
+- [Google Scholar](#) <!-- TODO: replace with your Google Scholar URL -->
 - [CV](assets/cv.pdf)
 :::
 

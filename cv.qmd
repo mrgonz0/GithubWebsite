@@ -2,25 +2,28 @@
 title: "CV"
 ---
 
-[Download PDF version](assets/cv.pdf){.btn .btn-outline-secondary .btn-sm}
+[Download PDF](assets/cv.pdf){.btn .btn-outline-secondary .btn-sm}
 
 ---
 
 ## Education
 
-**Ph.D. in [Field]** — [University], [Expected Year]
-Dissertation: "[Dissertation Title]"
-Advisor: [Advisor Name]
+**Ph.D. in Political Science** — University of Pittsburgh, 2023
 
-**M.A. in [Field]** — [University], [Year]
+**[B.A. / M.A. — TODO]**
 
-**B.A. in [Field]** — [University], [Year]
+---
+
+## Positions
+
+**Postdoctoral Researcher** — University of Copenhagen, 2023–present
+Department of Political Science
 
 ---
 
 ## Research Interests
 
-[Area 1], [Area 2], [Area 3]
+Comparative politics, political behavior, political parties, electoral politics, identity politics
 
 ---
 
@@ -30,15 +33,9 @@ See [Publications](publications.qmd) page.
 
 ---
 
-## Working Papers
+## Works in Progress
 
-- **[Paper Title]**. ([Year]). [Status: under review / revise & resubmit at Journal Name].
-
----
-
-## Work in Progress
-
-- **[Paper Title]**.
+- [Add working paper titles here]
 
 ---
 
@@ -52,20 +49,12 @@ Role: [Instructor / Teaching Assistant]
 ## Awards & Fellowships
 
 - [Award Name], [Institution], [Year]
-- [Fellowship Name], [Institution], [Year]
 
 ---
 
 ## Presentations
 
 - [Conference Name], [Location], [Year]
-- [Workshop Name], [Location], [Year]
-
----
-
-## Service
-
-- [Role], [Organization], [Year–Year]
 
 ---
 
