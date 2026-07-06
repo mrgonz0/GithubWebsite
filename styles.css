@@ -78,6 +78,60 @@ hr {
   line-height: 1.6;
 }
 
+/* Research: status badges */
+.status {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #2c7bb6;
+  background: #f2f8fc;
+  border: 1px solid #cfe0ee;
+  border-radius: 999px;
+  padding: 0.05rem 0.6rem;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+/* Research: collapsible abstracts */
+details {
+  margin: 0.6rem 0 1.8rem;
+}
+
+details > summary {
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #2c7bb6;
+  letter-spacing: 0.02em;
+  list-style: none;
+  width: fit-content;
+}
+
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+details > summary::before {
+  content: "▸ ";
+  font-size: 0.75rem;
+}
+
+details[open] > summary::before {
+  content: "▾ ";
+}
+
+details > p {
+  margin-top: 0.7rem;
+  color: #444;
+  font-size: 0.95rem;
+}
+
+.research-heading + p {
+  color: #555;
+}
+
 /* Footer */
 .nav-footer {
   border-top: 1px solid #e0e0e0;

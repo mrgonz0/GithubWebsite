@@ -6,18 +6,25 @@ title: "CV"
 
 ---
 
-## Education
+## Academic Appointments
 
-**Ph.D. in Political Science** — University of Pittsburgh, 2023
-
-**[B.A. / M.A. — TODO]**
+**University of Copenhagen**
+Research Affiliate, 2026–present
+Postdoctoral Researcher, 2023–2026
 
 ---
 
-## Positions
+## Education
 
-**Postdoctoral Researcher** — University of Copenhagen, 2023–present
-Department of Political Science
+**University of Pittsburgh**
+Ph.D. in Political Science, 2023
+M.A. in Political Science, 2020
+
+**University of Glasgow**
+M.Sc. in Political Science, 2016
+
+**University of Colorado Boulder**
+B.A. in Political Science, 2014
 
 ---
 
@@ -29,35 +36,68 @@ Comparative politics, political behavior, political parties, electoral politics,
 
 ## Publications
 
-See [Publications](publications.qmd) page.
+See the [Publications](publications.qmd) page.
 
 ---
 
 ## Works in Progress
 
-- [Add working paper titles here]
-
----
-
-## Teaching Experience
-
-**[Course Name]** — [University], [Term Year]
-Role: [Instructor / Teaching Assistant]
+- Dinesen, Peter Thisted, Kim Mannemar Sønderskov, Matthias Avina, & Markus Kollberg. "Attitudes Towards Identity Politics: Abstract Support, Concrete Skepticism." *Revise and resubmit.*
+- Avina, Matthias, Peter Thisted Dinesen, & Kim Mannemar Sønderskov. "The Identitarian Penalty: Identitarian Policy Stances Reduce Political Support for Democratic Candidates." *Under review.*
+- Avina, Matthias. "Under Pressure? Partisan Response to Party Brand Change."
+- Dinesen, Peter Thisted, Kim Mannemar Sønderskov, & Matthias Avina. "Identitarian Framing of 'Whataboutism' and Its Implications for Human Rights Debates."
 
 ---
 
 ## Awards & Fellowships
 
-- [Award Name], [Institution], [Year]
+- Arts and Sciences Graduate Fellowship in Political Science ($12,200), University of Pittsburgh, 2023
+- University of Pittsburgh Summer Research Grant ($3,000), 2022
+- European Studies Center Klinzing Dissertation Grant ($8,400), University of Pittsburgh, 2022
+- Arts and Sciences Graduate Fellowship in Political Science ($24,600), University of Pittsburgh, 2021–2022
 
 ---
 
-## Presentations
+## Teaching Experience
 
-- [Conference Name], [Location], [Year]
+See the [Teaching](teaching.qmd) page.
+
+---
+
+## Conference Papers & Presentations
+
+- American Political Science Association, 2023, 2026
+- European Political Science Society, 2026
+- Danish Political Science Association, 2025
+- European Political Science Association, 2022, 2023, 2025
+- European Union Studies Association, 2023, 2025
+- Midwest Political Science Association, 2021, 2023
+
+---
+
+## Professional Service
+
+**Editorial Assistant**
+Journal of Elections, Public Opinion, and Parties, 2019–2020
+
+**Reviewer**
+British Journal of Political Science, British Journal of Politics and International Relations, Comparative Political Studies, European Journal of Political Research, Government and Opposition, Journal of Politics, Party Politics, Perspectives on Politics, Research and Politics
+
+**Research Assistant, University of Pittsburgh**
+Michael MacKenzie (Fall 2019, Fall 2020); Emily West (Spring 2020); B. Guy Peters (Summer 2021); Scott Morgenstern (Summer 2021)
+
+---
+
+## Skills
+
+**Statistical software:** Stata, R, Python
+**Survey research software:** Qualtrics, QuestionPro, SurveyDown
+**Text editing:** LaTeX
 
 ---
 
 ## References
 
-Available upon request.
+- Jae-Jae Spoon, Professor of Political Science, University of Pittsburgh — [spoonj@pitt.edu](mailto:spoonj@pitt.edu)
+- Peter Thisted Dinesen, Professor of Political Science, University of Copenhagen — [ptd@ifs.ku.dk](mailto:ptd@ifs.ku.dk)
+- Pablo Fernandez-Vazquez, Juan de la Cierva Associate Professor of Political Science, Carlos III University — [pablo.fernandez.vazquez@uc3m.es](mailto:pablo.fernandez.vazquez@uc3m.es)

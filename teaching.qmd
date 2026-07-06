@@ -2,32 +2,24 @@
 title: "Teaching"
 ---
 
-## Teaching
+## University of Copenhagen
 
-### [University Name]
-
-**[Course Name]** — [Course Number]
-*[Term, Year]*
-[Brief description: level, enrollment, your role (instructor/TA).]
-
-**[Course Name]** — [Course Number]
-*[Term, Year]*
-[Brief description.]
+**Comparative Political Parties** — 2300
+*Fall/Spring 2025/2026*
 
 ---
+
+## University of Pittsburgh
+
+### Instructor of Record
+
+**European Government and Politics** — PS1318
+*Summer 2022*
 
 ### Teaching Assistant
 
-**[Course Name]** — [Course Number], [University Name]
-*[Term, Year]*
-Instructor: [Professor Name]
+**Introduction to American Politics** — PS0200
+*Fall 2022*
 
-**[Course Name]** — [Course Number], [University Name]
-*[Term, Year]*
-Instructor: [Professor Name]
-
----
-
-## Teaching Philosophy
-
-[Optional: a short paragraph on your approach to teaching, 3–5 sentences.]
+**Introduction to Political Theory** — PS0600
+*Spring 2021*

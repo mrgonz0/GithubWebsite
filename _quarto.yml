@@ -6,6 +6,7 @@ website:
   title: "Matthias Avina"
   description: "Academic website of Matthias Avina"
   site-url: "https://matthiasavina.com"
+  favicon: assets/favicon.svg
 
   navbar:
     left:
@@ -15,6 +16,8 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications
+      - href: "https://politicalpartieslogos-database.github.io/PPLD/"
+        text: Data
       - href: teaching.qmd
         text: Teaching
       - href: cv.qmd

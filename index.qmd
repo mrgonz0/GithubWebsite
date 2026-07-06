@@ -12,25 +12,20 @@ page-layout: full
 ::: {.column width="70%"}
 ## Matthias Avina
 
-**Postdoctoral Researcher**
-Department of Political Science
-University of Copenhagen
 
-Hello there! I am a postdoctoral researcher at the University of Copenhagen. My research sits at the intersection of comparative politics and political behavior and seeks to explain how voters and parties in advanced democracies mutually influence one another.
+Hello there! I am a scholar of comparative political behavior in Western Europe and the United States, and my research seeks to understand whether advanced democracies are accountable to, and representative of, the public. I have developed two distinct lines of research grappling with these themes. The first examines how parties in advanced democracies communicate with voters and how voters use this information when forming opinions of parties and candidates. My second research agenda, conducted as part of my postdoctoral work with Peter Thisted Dinesen, examines how identities and inequalities structure voting behavior and public opinion more generally. My work has been published in the European Journal of Political Research and Party Politics.  
 
-In my dissertation, I argue that parties, like corporations, can 'rebrand,' not only through policy shifts but also through symbolic changes to their name and logo. This framework broadens the concept of rebranding to include symbolic attributes and demonstrates their substantive importance for parties. My work on this topic has been published in the *European Journal of Political Research* and *Party Politics*.
+I also co-developed the [Political Parties Logo Database](https://politicalpartieslogos-database.github.io/PPLD/), the first cross-national database of European party logos.
 
-In my postdoctoral work, I am working with Peter Thisted Dinesen on the "E. Pluribus Plures" research project. In this project, we explore different dimensions of identity politics as well as its consequences across Western societies in terms of electoral outcomes, social trust, and social cohesion.
 
-Prior to joining UCPH, I received my PhD in political science from the University of Pittsburgh in 2023.
+I received my PhD in political science from the University of Pittsburgh in 2023 and was a postdoctoral researcher at the University of Copenhagen, where I am currently a research affiliate.
 
 ::: {.mt-3}
 **Contact**
 
 - Email: [mav@ifs.ku.dk](mailto:mav@ifs.ku.dk)
-- Office: [Room, Building — TODO]
-- [Google Scholar](#) <!-- TODO: replace with your Google Scholar URL -->
-- [CV](assets/cv.pdf)
+- [Google Scholar](https://scholar.google.com/citations?user=osYqomEAAAAJ&hl=en)
+- [CV](assets/Avina_CV_2026.pdf)
 :::
 
 :::
