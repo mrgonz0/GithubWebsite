@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(quarto render *)",
+      "Bash(quarto preview *)",
+      "Bash(dig +short matthiasavina.com NS)",
+      "Bash(whois matthiasavina.com)",
+      "Bash(git push *)"
+    ]
+  }
+}
