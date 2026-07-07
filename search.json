@@ -1,31 +1,24 @@
 [
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research examines political behavior in advanced democracies, with two connected agendas: how parties communicate with voters through their brands and images, and how identities and inequalities shape public opinion and voting behavior."
+  },
+  {
+    "objectID": "research.html#works-in-progress",
+    "href": "research.html#works-in-progress",
+    "title": "Research",
+    "section": "Works in Progress",
+    "text": "Works in Progress\n\nAttitudes Towards Identity Politics: Abstract Support, Concrete Skepticism\nwith Peter Thisted Dinesen, Kim Mannemar Sønderskov, and Markus Kollberg · Revise & Resubmit\n\n\nAbstract\n\nHistorically disadvantaged social groups seeking recognition and justice—a phenomenon commonly referred to as identity politics—is a core feature of contemporary politics. Despite the salience of this phenomenon, little is known about citizens’ views on it. Here, we operationalize attitudes towards identity politics along three dimensions: (1) principles related to group-based inequalities, their causes and remedies, (2) policies relating to issues commonly associated with identity politics, and (3) episodes that are framed as emblematic of identity politics. To gauge attitudes towards these three dimensions, we developed survey instruments that were fielded in a two-wave panel survey in Denmark testing pre-registered hypotheses about the level of support for identity politics along the three dimensions, as well as their correlates. We find that attitudes towards identity politics vary across the dimensions: while citizens are generally supportive of the principles of identity politics, they are less supportive of the concrete political issues, and overwhelmingly critical of the episodes. Despite differences in the level of support, attitudes towards each of the dimensions are correlated, thereby indicating some attitudinal consistency. Further, exploiting the randomized question battery order, we find that respondents primed with salient episodes become less supportive of the principles of identity politics. Overall, the results reveal a schism between citizens’ attitudes toward the abstract principles of identity politics and its concrete manifestations. These results are an important first step in understanding citizens’ attitudes towards identity politics and its potential downstream consequences for democratic competition.\n\n\n\nThe Identitarian Penalty: Identitarian Policy Stances Reduce Political Support for Democratic Candidates\nwith Peter Thisted Dinesen and Kim Mannemar Sønderskov · Under Review\n\n\nAbstract\n\nDoes embracing identity politics reduce support for the Democratic Party? In the wake of Democrats’ 2024 electoral losses, many commentators and elected officials argued that the Party’s endorsement of identity politics alienated voters. Despite the prominence of this identitarian penalty hypothesis, the claim lacks firm empirical backing. We test whether endorsing policies that primarily benefit historically disadvantaged groups—what we call identitarian policies—reduces support for Democratic candidates. Across three candidate choice-style survey experiments in which respondents evaluate either a Democratic candidate who endorses identitarian policies or one who does not, we find consistent evidence for an identitarian penalty in that candidates who support identitarian policies receive lower policy approval and respondents are less likely to vote for them. These effects appear among all partisan groups except strong Democrats, and among both advantaged and disadvantaged groups. Finally, the penalty applies to policies targeting both racial/ethnic minorities and sexual/gender minorities.\n\n\n\nIdentitarian Framing of “Whataboutism” and Its Implications for Human Rights Debates\nwith Peter Thisted Dinesen and Kim Mannemar Sønderskov\n\n\nAbstract\n\nRecent scholarly work has analyzed the effects of “whataboutism,” a rhetorical argument often used by authoritarian states which deflects international criticism of human rights abuses by highlighting transgressions made by Western states. In this paper, we extend the literature on whataboutism in three ways. First, we examine the effects of whataboutism in a realistic, and therefore externally valid, scenario. Second, we test whether whataboutism shifts opinion on attitudes towards the universality of human rights, moving these to a position that is more favorable to authoritarian regimes. Lastly, we explore whether the effects of whataboutism vary by demographic traits such as disadvantaged status and ideological profile. In a framing experiment leveraging the debate over human rights which occurred during the 2022 World Cup, we find that, aligning with prior work, whataboutism decreases support for various types of intervention. We also find some limited evidence that whataboutism decreases support for the universality of human rights. Finally, we find that, in general, the effects of whataboutism do not differ based on disadvantaged status, but we do find that it is less effective on the most conservative people.\n\n\n\nUnder Pressure? Partisan Response to Party Brand Change\nsolo-authored · Working Paper"
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "All publications are listed below. For working papers and works in progress, see the Research page."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "[Course Name] — [Course Number] [Term, Year] [Brief description: level, enrollment, your role (instructor/TA).]\n[Course Name] — [Course Number] [Term, Year] [Brief description.]\n\n\n\n\n[Course Name] — [Course Number], [University Name] [Term, Year] Instructor: [Professor Name]\n[Course Name] — [Course Number], [University Name] [Term, Year] Instructor: [Professor Name]"
-  },
-  {
-    "objectID": "teaching.html#teaching",
-    "href": "teaching.html#teaching",
-    "title": "Teaching",
-    "section": "",
-    "text": "[Course Name] — [Course Number] [Term, Year] [Brief description: level, enrollment, your role (instructor/TA).]\n[Course Name] — [Course Number] [Term, Year] [Brief description.]\n\n\n\n\n[Course Name] — [Course Number], [University Name] [Term, Year] Instructor: [Professor Name]\n[Course Name] — [Course Number], [University Name] [Term, Year] Instructor: [Professor Name]"
-  },
-  {
-    "objectID": "teaching.html#teaching-philosophy",
-    "href": "teaching.html#teaching-philosophy",
-    "title": "Teaching",
-    "section": "Teaching Philosophy",
-    "text": "Teaching Philosophy\n[Optional: a short paragraph on your approach to teaching, 3–5 sentences.]"
+    "text": "Peer-reviewed articles, listed newest first. For working papers and works in progress, see the Research page."
   },
   {
     "objectID": "cv.html",
@@ -35,18 +28,18 @@
     "text": "Download PDF"
   },
   {
+    "objectID": "cv.html#academic-appointments",
+    "href": "cv.html#academic-appointments",
+    "title": "CV",
+    "section": "Academic Appointments",
+    "text": "Academic Appointments\nUniversity of Copenhagen Research Affiliate, 2026–present Postdoctoral Researcher, 2023–2026"
+  },
+  {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
     "title": "CV",
     "section": "Education",
-    "text": "Education\nPh.D. in Political Science — University of Pittsburgh, 2023\n[B.A. / M.A. — TODO]"
-  },
-  {
-    "objectID": "cv.html#positions",
-    "href": "cv.html#positions",
-    "title": "CV",
-    "section": "Positions",
-    "text": "Positions\nPostdoctoral Researcher — University of Copenhagen, 2023–present Department of Political Science"
+    "text": "Education\nUniversity of Pittsburgh Ph.D. in Political Science, 2023 M.A. in Political Science, 2020\nUniversity of Glasgow M.Sc. in Political Science, 2016\nUniversity of Colorado Boulder B.A. in Political Science, 2014"
   },
   {
     "objectID": "cv.html#research-interests",
@@ -60,69 +53,90 @@
     "href": "cv.html#publications",
     "title": "CV",
     "section": "Publications",
-    "text": "Publications\nSee Publications page."
+    "text": "Publications\nSee the Publications page."
   },
   {
     "objectID": "cv.html#works-in-progress",
     "href": "cv.html#works-in-progress",
     "title": "CV",
     "section": "Works in Progress",
-    "text": "Works in Progress\n\n[Add working paper titles here]"
-  },
-  {
-    "objectID": "cv.html#teaching-experience",
-    "href": "cv.html#teaching-experience",
-    "title": "CV",
-    "section": "Teaching Experience",
-    "text": "Teaching Experience\n[Course Name] — [University], [Term Year] Role: [Instructor / Teaching Assistant]"
+    "text": "Works in Progress\n\nDinesen, Peter Thisted, Kim Mannemar Sønderskov, Matthias Avina, & Markus Kollberg. “Attitudes Towards Identity Politics: Abstract Support, Concrete Skepticism.” Revise and resubmit.\nAvina, Matthias, Peter Thisted Dinesen, & Kim Mannemar Sønderskov. “The Identitarian Penalty: Identitarian Policy Stances Reduce Political Support for Democratic Candidates.” Under review.\nAvina, Matthias. “Under Pressure? Partisan Response to Party Brand Change.”\nDinesen, Peter Thisted, Kim Mannemar Sønderskov, & Matthias Avina. “Identitarian Framing of ‘Whataboutism’ and Its Implications for Human Rights Debates.”"
   },
   {
     "objectID": "cv.html#awards-fellowships",
     "href": "cv.html#awards-fellowships",
     "title": "CV",
     "section": "Awards & Fellowships",
-    "text": "Awards & Fellowships\n\n[Award Name], [Institution], [Year]"
+    "text": "Awards & Fellowships\n\nArts and Sciences Graduate Fellowship in Political Science ($12,200), University of Pittsburgh, 2023\nUniversity of Pittsburgh Summer Research Grant ($3,000), 2022\nEuropean Studies Center Klinzing Dissertation Grant ($8,400), University of Pittsburgh, 2022\nArts and Sciences Graduate Fellowship in Political Science ($24,600), University of Pittsburgh, 2021–2022"
   },
   {
-    "objectID": "cv.html#presentations",
-    "href": "cv.html#presentations",
+    "objectID": "cv.html#teaching-experience",
+    "href": "cv.html#teaching-experience",
     "title": "CV",
-    "section": "Presentations",
-    "text": "Presentations\n\n[Conference Name], [Location], [Year]"
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\nSee the Teaching page."
+  },
+  {
+    "objectID": "cv.html#conference-papers-presentations",
+    "href": "cv.html#conference-papers-presentations",
+    "title": "CV",
+    "section": "Conference Papers & Presentations",
+    "text": "Conference Papers & Presentations\n\nAmerican Political Science Association, 2023, 2026\nEuropean Political Science Society, 2026\nDanish Political Science Association, 2025\nEuropean Political Science Association, 2022, 2023, 2025\nEuropean Union Studies Association, 2023, 2025\nMidwest Political Science Association, 2021, 2023"
+  },
+  {
+    "objectID": "cv.html#professional-service",
+    "href": "cv.html#professional-service",
+    "title": "CV",
+    "section": "Professional Service",
+    "text": "Professional Service\nEditorial Assistant Journal of Elections, Public Opinion, and Parties, 2019–2020\nReviewer British Journal of Political Science, British Journal of Politics and International Relations, Comparative Political Studies, European Journal of Political Research, Government and Opposition, Journal of Politics, Party Politics, Perspectives on Politics, Research and Politics\nResearch Assistant, University of Pittsburgh Michael MacKenzie (Fall 2019, Fall 2020); Emily West (Spring 2020); B. Guy Peters (Summer 2021); Scott Morgenstern (Summer 2021)"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\nStatistical software: Stata, R, Python Survey research software: Qualtrics, QuestionPro, SurveyDown Text editing: LaTeX"
   },
   {
     "objectID": "cv.html#references",
     "href": "cv.html#references",
     "title": "CV",
     "section": "References",
-    "text": "References\nAvailable upon request."
+    "text": "References\n\nJae-Jae Spoon, Professor of Political Science, University of Pittsburgh — spoonj@pitt.edu\nPeter Thisted Dinesen, Professor of Political Science, University of Copenhagen — ptd@ifs.ku.dk\nPablo Fernandez-Vazquez, Juan de la Cierva Associate Professor of Political Science, Carlos III University — pablo.fernandez.vazquez@uc3m.es"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "The Identitarian Penalty: Identitarian Policy Stances Reduce Political Support for Democratic Candidates (with Peter Thisted Dinesen and Kim Mannemar Sønderskov)\n\nDoes embracing identity politics reduce support for the Democratic Party? In the wake of Democrats’ 2024 electoral losses, many commentators and elected officials argued that the Party’s endorsement of identity politics alienated voters. Despite the prominence of this identitarian penalty hypothesis, the claim lacks firm empirical backing. We test whether endorsing policies that primarily benefit historically disadvantaged groups—what we call identitarian policies—reduces support for Democratic candidates. Across three candidate choice-style survey experiments in which respondents evaluate either a Democratic candidate who endorses identitarian policies or one who does not, we find consistent evidence for an identitarian penalty in that candidates who support identitarian policies receive lower policy approval and respondents are less likely to vote for them. These effects appear among all partisan groups except strong Democrats, and among both advantaged and disadvantaged groups. Finally, the penalty applies to policies targeting both racial/ethnic minorities and sexual/gender minorities.\n\n‘’Identitarian framing of ``Whataboutism’’ and its implications for human rights debates.’’ (with Peter Thisted Dinesen and Kim Mannemar Sønderskov)\n\nRecent scholarly work has analyzed the effects of ``whataboutism,’’ a rhetorical argument often used by authoritarian states which deflects international criticism of human rights abuses by highlighting transgressions made by Western states. In this paper, we extend the literature on whataboutism in three ways. First, we examine the effects of whataboutism in a realistic, and therefore externally valid, scenario. Second, we test whether whataboutism shifts opinion on attitudes towards the universality of human rights, moving these to a position that is more favorable to authoritarian regimes. Lastly, we explore whether the effects of whataboutism vary by demographic traits such as disadvantaged status and ideological profile. In a framing experiment leveraging the debate over human rights which occurred during the 2022 World Cup, we find that, aligning with prior work, whataboutism decreases support for various types of intervention. We also find some limited evidence that whataboutism decreases support for for the universality of human rights. Finally, we find that, in general, the effects of whataboutism do not differ based on disadvantaged status, but we do find that it is less effective on the most conservative people."
+    "text": "Comparative Political Parties — 2300 Fall/Spring 2025/2026"
   },
   {
-    "objectID": "research.html#works-in-progress",
-    "href": "research.html#works-in-progress",
-    "title": "Research",
+    "objectID": "teaching.html#university-of-copenhagen",
+    "href": "teaching.html#university-of-copenhagen",
+    "title": "Teaching",
     "section": "",
-    "text": "The Identitarian Penalty: Identitarian Policy Stances Reduce Political Support for Democratic Candidates (with Peter Thisted Dinesen and Kim Mannemar Sønderskov)\n\nDoes embracing identity politics reduce support for the Democratic Party? In the wake of Democrats’ 2024 electoral losses, many commentators and elected officials argued that the Party’s endorsement of identity politics alienated voters. Despite the prominence of this identitarian penalty hypothesis, the claim lacks firm empirical backing. We test whether endorsing policies that primarily benefit historically disadvantaged groups—what we call identitarian policies—reduces support for Democratic candidates. Across three candidate choice-style survey experiments in which respondents evaluate either a Democratic candidate who endorses identitarian policies or one who does not, we find consistent evidence for an identitarian penalty in that candidates who support identitarian policies receive lower policy approval and respondents are less likely to vote for them. These effects appear among all partisan groups except strong Democrats, and among both advantaged and disadvantaged groups. Finally, the penalty applies to policies targeting both racial/ethnic minorities and sexual/gender minorities.\n\n‘’Identitarian framing of ``Whataboutism’’ and its implications for human rights debates.’’ (with Peter Thisted Dinesen and Kim Mannemar Sønderskov)\n\nRecent scholarly work has analyzed the effects of ``whataboutism,’’ a rhetorical argument often used by authoritarian states which deflects international criticism of human rights abuses by highlighting transgressions made by Western states. In this paper, we extend the literature on whataboutism in three ways. First, we examine the effects of whataboutism in a realistic, and therefore externally valid, scenario. Second, we test whether whataboutism shifts opinion on attitudes towards the universality of human rights, moving these to a position that is more favorable to authoritarian regimes. Lastly, we explore whether the effects of whataboutism vary by demographic traits such as disadvantaged status and ideological profile. In a framing experiment leveraging the debate over human rights which occurred during the 2022 World Cup, we find that, aligning with prior work, whataboutism decreases support for various types of intervention. We also find some limited evidence that whataboutism decreases support for for the universality of human rights. Finally, we find that, in general, the effects of whataboutism do not differ based on disadvantaged status, but we do find that it is less effective on the most conservative people."
+    "text": "Comparative Political Parties — 2300 Fall/Spring 2025/2026"
+  },
+  {
+    "objectID": "teaching.html#university-of-pittsburgh",
+    "href": "teaching.html#university-of-pittsburgh",
+    "title": "Teaching",
+    "section": "University of Pittsburgh",
+    "text": "University of Pittsburgh\n\nInstructor of Record\nEuropean Government and Politics — PS1318 Summer 2022\n\n\nTeaching Assistant\nIntroduction to American Politics — PS0200 Fall 2022\nIntroduction to Political Theory — PS0600 Spring 2021"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Matthias Avina",
     "section": "",
-    "text": "Postdoctoral Researcher Department of Political Science University of Copenhagen\nHello there! I am a postdoctoral researcher at the University of Copenhagen. My research sits at the intersection of comparative politics and political behavior and seeks to explain how voters and parties in advanced democracies mutually influence one another.\nIn my dissertation, I argue that parties, like corporations, can ‘rebrand,’ not only through policy shifts but also through symbolic changes to their name and logo. This framework broadens the concept of rebranding to include symbolic attributes and demonstrates their substantive importance for parties. My work on this topic has been published in the European Journal of Political Research and Party Politics.\nIn my postdoctoral work, I am working with Peter Thisted Dinesen on the “E. Pluribus Plures” research project. In this project, we explore different dimensions of identity politics as well as its consequences across Western societies in terms of electoral outcomes, social trust, and social cohesion.\nPrior to joining UCPH, I received my PhD in political science from the University of Pittsburgh in 2023.\n\nContact\n\nEmail: mav@ifs.ku.dk\nOffice: [Room, Building — TODO]\nGoogle Scholar \nCV"
+    "text": "Hello there! I am a scholar of comparative political behavior in Western Europe and the United States, and my research seeks to understand whether advanced democracies are accountable to, and representative of, the public. I have developed two distinct lines of research grappling with these themes. The first examines how parties in advanced democracies communicate with voters and how voters use this information when forming opinions of parties and candidates. My second research agenda, conducted as part of my postdoctoral work with Peter Thisted Dinesen, examines how identities and inequalities structure voting behavior and public opinion more generally. My work has been published in the European Journal of Political Research and Party Politics.\nI also co-developed the Political Parties Logo Database, the first cross-national database of European party logos.\nI received my PhD in political science from the University of Pittsburgh in 2023 and was a postdoctoral researcher at the University of Copenhagen, where I am currently a research affiliate.\n\nContact\n\nEmail: mav@ifs.ku.dk\nGoogle Scholar\nCV"
   },
   {
     "objectID": "index.html#matthias-avina",
     "href": "index.html#matthias-avina",
     "title": "Matthias Avina",
     "section": "",
-    "text": "Postdoctoral Researcher Department of Political Science University of Copenhagen\nHello there! I am a postdoctoral researcher at the University of Copenhagen. My research sits at the intersection of comparative politics and political behavior and seeks to explain how voters and parties in advanced democracies mutually influence one another.\nIn my dissertation, I argue that parties, like corporations, can ‘rebrand,’ not only through policy shifts but also through symbolic changes to their name and logo. This framework broadens the concept of rebranding to include symbolic attributes and demonstrates their substantive importance for parties. My work on this topic has been published in the European Journal of Political Research and Party Politics.\nIn my postdoctoral work, I am working with Peter Thisted Dinesen on the “E. Pluribus Plures” research project. In this project, we explore different dimensions of identity politics as well as its consequences across Western societies in terms of electoral outcomes, social trust, and social cohesion.\nPrior to joining UCPH, I received my PhD in political science from the University of Pittsburgh in 2023.\n\nContact\n\nEmail: mav@ifs.ku.dk\nOffice: [Room, Building — TODO]\nGoogle Scholar \nCV"
+    "text": "Hello there! I am a scholar of comparative political behavior in Western Europe and the United States, and my research seeks to understand whether advanced democracies are accountable to, and representative of, the public. I have developed two distinct lines of research grappling with these themes. The first examines how parties in advanced democracies communicate with voters and how voters use this information when forming opinions of parties and candidates. My second research agenda, conducted as part of my postdoctoral work with Peter Thisted Dinesen, examines how identities and inequalities structure voting behavior and public opinion more generally. My work has been published in the European Journal of Political Research and Party Politics.\nI also co-developed the Political Parties Logo Database, the first cross-national database of European party logos.\nI received my PhD in political science from the University of Pittsburgh in 2023 and was a postdoctoral researcher at the University of Copenhagen, where I am currently a research affiliate.\n\nContact\n\nEmail: mav@ifs.ku.dk\nGoogle Scholar\nCV"
   }
 ]
