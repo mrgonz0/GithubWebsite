@@ -20,7 +20,7 @@ website:
         text: Data
       - href: teaching.qmd
         text: Teaching
-      - href: cv.qmd
+      - href: assets/Avina_CV_2026.pdf
         text: CV
 
   page-footer:
