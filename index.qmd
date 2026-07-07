@@ -13,7 +13,7 @@ page-layout: full
 ## Matthias Avina
 
 
-Hello there! I am a scholar of comparative political behavior in Western Europe and the United States, and my research seeks to understand whether advanced democracies are accountable to, and representative of, the public. I have developed two distinct lines of research grappling with these themes. The first examines how parties in advanced democracies communicate with voters and how voters use this information when forming opinions of parties and candidates. My second research agenda, conducted as part of my postdoctoral work with Peter Thisted Dinesen, examines how identities and inequalities structure voting behavior and public opinion more generally. My work has been published in the European Journal of Political Research and Party Politics.  
+Hello there! I am a scholar of comparative political behavior in Western Europe and the United States, and my research seeks to understand whether advanced democracies are accountable to, and representative of, the public. I have developed two distinct lines of research grappling with these themes. The first examines how parties in advanced democracies communicate with voters and how voters use this information when forming opinions of parties and candidates. My second research agenda, conducted as part of my postdoctoral work with Peter Thisted Dinesen, examines how identities and inequalities structure voting behavior and public opinion more generally. My work has been published in the *European Journal of Political Research* and *Party Politics*.  
 
 I also co-developed the [Political Parties Logo Database](https://politicalpartieslogos-database.github.io/PPLD/), the first cross-national database of European party logos.
 
