@@ -6,7 +6,7 @@ page-layout: full
 :::: {.columns}
 
 ::: {.column width="30%"}
-![](assets/profile.png){.rounded width="200px"}
+![](assets/profile2.png){.rounded width="200px"}
 :::
 
 ::: {.column width="70%"}
@@ -18,7 +18,7 @@ I am a scholar of comparative political behavior in Western Europe and the Unite
 I also co-developed the [Political Parties Logo Database](https://politicalpartieslogos-database.github.io/PPLD/), the first cross-national database of European party logos.
 
 
-I received my PhD in political science from the University of Pittsburgh in 2023 and was a postdoctoral researcher at the University of Copenhagen, where I am currently a research affiliate.
+I received my PhD in political science from the University of Pittsburgh in 2023 and was previously a postdoctoral researcher at the University of Copenhagen, where I am currently a research affiliate.
 
 ::: {.home-btns}
 [Contact me](mailto:mav@ifs.ku.dk){.btn}
