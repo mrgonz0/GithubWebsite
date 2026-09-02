@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Peer-reviewed articles, listed newest first. For working papers and works in progress, see the Research page."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Comparative Political Parties — 2300 Fall/Spring 2025/2026"
-  },
-  {
-    "objectID": "teaching.html#university-of-copenhagen",
-    "href": "teaching.html#university-of-copenhagen",
-    "title": "Teaching",
-    "section": "",
-    "text": "Comparative Political Parties — 2300 Fall/Spring 2025/2026"
-  },
-  {
-    "objectID": "teaching.html#university-of-pittsburgh",
-    "href": "teaching.html#university-of-pittsburgh",
-    "title": "Teaching",
-    "section": "University of Pittsburgh",
-    "text": "University of Pittsburgh\n\nInstructor of Record\nEuropean Government and Politics — PS1318 Summer 2022\n\n\nTeaching Assistant\nIntroduction to American Politics — PS0200 Fall 2022\nIntroduction to Political Theory — PS0600 Spring 2021"
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
@@ -112,25 +84,53 @@
     "text": "References\n\nJae-Jae Spoon, Professor of Political Science, University of Pittsburgh — spoonj@pitt.edu\nPeter Thisted Dinesen, Professor of Political Science, University of Copenhagen — ptd@ifs.ku.dk\nPablo Fernandez-Vazquez, Juan de la Cierva Associate Professor of Political Science, Carlos III University — pablo.fernandez.vazquez@uc3m.es"
   },
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Comparative Political Parties — 2300 Fall/Spring 2025/2026"
+  },
+  {
+    "objectID": "teaching.html#university-of-copenhagen",
+    "href": "teaching.html#university-of-copenhagen",
+    "title": "Teaching",
+    "section": "",
+    "text": "Comparative Political Parties — 2300 Fall/Spring 2025/2026"
+  },
+  {
+    "objectID": "teaching.html#university-of-pittsburgh",
+    "href": "teaching.html#university-of-pittsburgh",
+    "title": "Teaching",
+    "section": "University of Pittsburgh",
+    "text": "University of Pittsburgh\n\nInstructor of Record\nEuropean Government and Politics — PS1318 Summer 2022\n\n\nTeaching Assistant\nIntroduction to American Politics — PS0200 Fall 2022\nIntroduction to Political Theory — PS0600 Spring 2021"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Matthias Avina",
     "section": "",
-    "text": "I am a scholar of comparative political behavior in Western Europe and the United States, and my research seeks to understand whether advanced democracies are accountable to, and representative of, the public. I have developed two distinct lines of inquiry grappling with these themes. The first examines how parties communicate with voters through their brands and images, and how voters use this information when forming opinions of parties and candidates. The second, conducted as part of my postdoctoral work with Peter Thisted Dinesen, examines how identities and inequalities structure voting behavior and public opinion. My work has been published in the European Journal of Political Research and Party Politics.\nI also co-developed the Political Parties Logo Database, the first cross-national database of European party logos.\nI received my PhD in political science from the University of Pittsburgh in 2023 and was previously a postdoctoral researcher at the University of Copenhagen, where I am currently a research affiliate.\n\nContact me Curriculum Vitae Google Scholar"
+    "text": "I am a scholar of comparative political behavior and public opinion in advanced democracies. My research examines how parties communicate with voters through their brands and images, and how voters use this information when forming opinions of parties and candidates. A second research agenda, conducted as part of my postdoctoral work with Peter Thisted Dinesen, examines how identities and inequalities structure voting behavior and public opinion. My work has been published in the European Journal of Political Research and Party Politics.\nI also co-developed the Political Parties Logo Database, the first cross-national database of European party logos.\nI received my PhD in political science from the University of Pittsburgh in 2023 and was previously a postdoctoral researcher at the University of Copenhagen, where I am currently a research affiliate.\n\nContact me Curriculum Vitae Google Scholar"
   },
   {
     "objectID": "index.html#matthias-avina",
     "href": "index.html#matthias-avina",
     "title": "Matthias Avina",
     "section": "",
-    "text": "I am a scholar of comparative political behavior in Western Europe and the United States, and my research seeks to understand whether advanced democracies are accountable to, and representative of, the public. I have developed two distinct lines of inquiry grappling with these themes. The first examines how parties communicate with voters through their brands and images, and how voters use this information when forming opinions of parties and candidates. The second, conducted as part of my postdoctoral work with Peter Thisted Dinesen, examines how identities and inequalities structure voting behavior and public opinion. My work has been published in the European Journal of Political Research and Party Politics.\nI also co-developed the Political Parties Logo Database, the first cross-national database of European party logos.\nI received my PhD in political science from the University of Pittsburgh in 2023 and was previously a postdoctoral researcher at the University of Copenhagen, where I am currently a research affiliate.\n\nContact me Curriculum Vitae Google Scholar"
+    "text": "I am a scholar of comparative political behavior and public opinion in advanced democracies. My research examines how parties communicate with voters through their brands and images, and how voters use this information when forming opinions of parties and candidates. A second research agenda, conducted as part of my postdoctoral work with Peter Thisted Dinesen, examines how identities and inequalities structure voting behavior and public opinion. My work has been published in the European Journal of Political Research and Party Politics.\nI also co-developed the Political Parties Logo Database, the first cross-national database of European party logos.\nI received my PhD in political science from the University of Pittsburgh in 2023 and was previously a postdoctoral researcher at the University of Copenhagen, where I am currently a research affiliate.\n\nContact me Curriculum Vitae Google Scholar"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Peer-reviewed articles, listed newest first. For working papers and works in progress, see the Research page."
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My research examines political behavior in advanced democracies, with two connected agendas: how parties communicate with voters through their brands and images, and how identities and inequalities shape public opinion and voting behavior."
+    "text": "My research examines political behavior in advanced democracies, specifically how parties communicate with voters through their brands and images, and how identities and inequalities shape public opinion and voting behavior."
   },
   {
     "objectID": "research.html#works-in-progress",
