@@ -1,24 +1,31 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "My research examines political behavior in advanced democracies, with two connected agendas: how parties communicate with voters through their brands and images, and how identities and inequalities shape public opinion and voting behavior."
-  },
-  {
-    "objectID": "research.html#works-in-progress",
-    "href": "research.html#works-in-progress",
-    "title": "Research",
-    "section": "Works in Progress",
-    "text": "Works in Progress\n\nAttitudes Towards Identity Politics: Abstract Support, Concrete Skepticism\nwith Peter Thisted Dinesen, Kim Mannemar Sønderskov, and Markus Kollberg · Revise & Resubmit\n\n\nAbstract\n\nHistorically disadvantaged social groups seeking recognition and justice—a phenomenon commonly referred to as identity politics—is a core feature of contemporary politics. Despite the salience of this phenomenon, little is known about citizens’ views on it. Here, we operationalize attitudes towards identity politics along three dimensions: (1) principles related to group-based inequalities, their causes and remedies, (2) policies relating to issues commonly associated with identity politics, and (3) episodes that are framed as emblematic of identity politics. To gauge attitudes towards these three dimensions, we developed survey instruments that were fielded in a two-wave panel survey in Denmark testing pre-registered hypotheses about the level of support for identity politics along the three dimensions, as well as their correlates. We find that attitudes towards identity politics vary across the dimensions: while citizens are generally supportive of the principles of identity politics, they are less supportive of the concrete political issues, and overwhelmingly critical of the episodes. Despite differences in the level of support, attitudes towards each of the dimensions are correlated, thereby indicating some attitudinal consistency. Further, exploiting the randomized question battery order, we find that respondents primed with salient episodes become less supportive of the principles of identity politics. Overall, the results reveal a schism between citizens’ attitudes toward the abstract principles of identity politics and its concrete manifestations. These results are an important first step in understanding citizens’ attitudes towards identity politics and its potential downstream consequences for democratic competition.\n\n\n\nThe Identitarian Penalty: Identitarian Policy Stances Reduce Political Support for Democratic Candidates\nwith Peter Thisted Dinesen and Kim Mannemar Sønderskov · Under Review\n\n\nAbstract\n\nDoes embracing identity politics reduce support for the Democratic Party? In the wake of Democrats’ 2024 electoral losses, many commentators and elected officials argued that the Party’s endorsement of identity politics alienated voters. Despite the prominence of this identitarian penalty hypothesis, the claim lacks firm empirical backing. We test whether endorsing policies that primarily benefit historically disadvantaged groups—what we call identitarian policies—reduces support for Democratic candidates. Across three candidate choice-style survey experiments in which respondents evaluate either a Democratic candidate who endorses identitarian policies or one who does not, we find consistent evidence for an identitarian penalty in that candidates who support identitarian policies receive lower policy approval and respondents are less likely to vote for them. These effects appear among all partisan groups except strong Democrats, and among both advantaged and disadvantaged groups. Finally, the penalty applies to policies targeting both racial/ethnic minorities and sexual/gender minorities.\n\n\n\nIdentitarian Framing of “Whataboutism” and Its Implications for Human Rights Debates\nwith Peter Thisted Dinesen and Kim Mannemar Sønderskov\n\n\nAbstract\n\nRecent scholarly work has analyzed the effects of “whataboutism,” a rhetorical argument often used by authoritarian states which deflects international criticism of human rights abuses by highlighting transgressions made by Western states. In this paper, we extend the literature on whataboutism in three ways. First, we examine the effects of whataboutism in a realistic, and therefore externally valid, scenario. Second, we test whether whataboutism shifts opinion on attitudes towards the universality of human rights, moving these to a position that is more favorable to authoritarian regimes. Lastly, we explore whether the effects of whataboutism vary by demographic traits such as disadvantaged status and ideological profile. In a framing experiment leveraging the debate over human rights which occurred during the 2022 World Cup, we find that, aligning with prior work, whataboutism decreases support for various types of intervention. We also find some limited evidence that whataboutism decreases support for the universality of human rights. Finally, we find that, in general, the effects of whataboutism do not differ based on disadvantaged status, but we do find that it is less effective on the most conservative people.\n\n\n\nUnder Pressure? Partisan Response to Party Brand Change\nsolo-authored · Working Paper"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
     "text": "Peer-reviewed articles, listed newest first. For working papers and works in progress, see the Research page."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Comparative Political Parties — 2300 Fall/Spring 2025/2026"
+  },
+  {
+    "objectID": "teaching.html#university-of-copenhagen",
+    "href": "teaching.html#university-of-copenhagen",
+    "title": "Teaching",
+    "section": "",
+    "text": "Comparative Political Parties — 2300 Fall/Spring 2025/2026"
+  },
+  {
+    "objectID": "teaching.html#university-of-pittsburgh",
+    "href": "teaching.html#university-of-pittsburgh",
+    "title": "Teaching",
+    "section": "University of Pittsburgh",
+    "text": "University of Pittsburgh\n\nInstructor of Record\nEuropean Government and Politics — PS1318 Summer 2022\n\n\nTeaching Assistant\nIntroduction to American Politics — PS0200 Fall 2022\nIntroduction to Political Theory — PS0600 Spring 2021"
   },
   {
     "objectID": "cv.html",
@@ -105,27 +112,6 @@
     "text": "References\n\nJae-Jae Spoon, Professor of Political Science, University of Pittsburgh — spoonj@pitt.edu\nPeter Thisted Dinesen, Professor of Political Science, University of Copenhagen — ptd@ifs.ku.dk\nPablo Fernandez-Vazquez, Juan de la Cierva Associate Professor of Political Science, Carlos III University — pablo.fernandez.vazquez@uc3m.es"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Comparative Political Parties — 2300 Fall/Spring 2025/2026"
-  },
-  {
-    "objectID": "teaching.html#university-of-copenhagen",
-    "href": "teaching.html#university-of-copenhagen",
-    "title": "Teaching",
-    "section": "",
-    "text": "Comparative Political Parties — 2300 Fall/Spring 2025/2026"
-  },
-  {
-    "objectID": "teaching.html#university-of-pittsburgh",
-    "href": "teaching.html#university-of-pittsburgh",
-    "title": "Teaching",
-    "section": "University of Pittsburgh",
-    "text": "University of Pittsburgh\n\nInstructor of Record\nEuropean Government and Politics — PS1318 Summer 2022\n\n\nTeaching Assistant\nIntroduction to American Politics — PS0200 Fall 2022\nIntroduction to Political Theory — PS0600 Spring 2021"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Matthias Avina",
@@ -138,5 +124,19 @@
     "title": "Matthias Avina",
     "section": "",
     "text": "I am a scholar of comparative political behavior in Western Europe and the United States, and my research seeks to understand whether advanced democracies are accountable to, and representative of, the public. I have developed two distinct lines of inquiry grappling with these themes. The first examines how parties communicate with voters through their brands and images, and how voters use this information when forming opinions of parties and candidates. The second, conducted as part of my postdoctoral work with Peter Thisted Dinesen, examines how identities and inequalities structure voting behavior and public opinion. My work has been published in the European Journal of Political Research and Party Politics.\nI also co-developed the Political Parties Logo Database, the first cross-national database of European party logos.\nI received my PhD in political science from the University of Pittsburgh in 2023 and was previously a postdoctoral researcher at the University of Copenhagen, where I am currently a research affiliate.\n\nContact me Curriculum Vitae Google Scholar"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research examines political behavior in advanced democracies, with two connected agendas: how parties communicate with voters through their brands and images, and how identities and inequalities shape public opinion and voting behavior."
+  },
+  {
+    "objectID": "research.html#works-in-progress",
+    "href": "research.html#works-in-progress",
+    "title": "Research",
+    "section": "Works in Progress",
+    "text": "Works in Progress\n\nAttitudes Towards Identity Politics: Abstract Support, Concrete Skepticism\nwith Peter Thisted Dinesen, Kim Mannemar Sønderskov, and Markus Kollberg · Revise & Resubmit\n\n\nAbstract\n\nHistorically disadvantaged social groups seeking recognition and justice—a phenomenon commonly referred to as identity politics—is a core feature of contemporary politics. Despite the salience of this phenomenon, little is known about citizens’ views on it. Here, we operationalize attitudes towards identity politics along three dimensions: (1) principles related to group-based inequalities, their causes and remedies, (2) policies relating to issues commonly associated with identity politics, and (3) episodes that are framed as emblematic of identity politics. To gauge attitudes towards these three dimensions, we developed survey instruments that were fielded in a two-wave panel survey in Denmark testing pre-registered hypotheses about the level of support for identity politics along the three dimensions, as well as their correlates. We find that attitudes towards identity politics vary across the dimensions: while citizens are generally supportive of the principles of identity politics, they are less supportive of the concrete political issues, and overwhelmingly critical of the episodes. Despite differences in the level of support, attitudes towards each of the dimensions are correlated, thereby indicating some attitudinal consistency. Further, exploiting the randomized question battery order, we find that respondents primed with salient episodes become less supportive of the principles of identity politics. Overall, the results reveal a schism between citizens’ attitudes toward the abstract principles of identity politics and its concrete manifestations. These results are an important first step in understanding citizens’ attitudes towards identity politics and its potential downstream consequences for democratic competition.\n\n\n\nThe Identitarian Penalty: Identitarian Policy Stances Reduce Political Support for Democratic Candidates\nwith Peter Thisted Dinesen and Kim Mannemar Sønderskov · Under Review\n\n\nAbstract\n\nDoes embracing identity politics reduce support for the Democratic Party? In the wake of Democrats’ 2024 electoral losses, many commentators and elected officials argued that the Party’s endorsement of identity politics alienated voters. Despite the prominence of this identitarian penalty hypothesis, the claim lacks firm empirical backing. We test whether endorsing policies that primarily benefit historically disadvantaged groups—what we call identitarian policies—reduces support for Democratic candidates. Across three candidate choice-style survey experiments in which respondents evaluate either a Democratic candidate who endorses identitarian policies or one who does not, we find consistent evidence for an identitarian penalty in that candidates who support identitarian policies receive lower policy approval and respondents are less likely to vote for them. These effects appear among all partisan groups except strong Democrats, and among both advantaged and disadvantaged groups. Finally, the penalty applies to policies targeting both racial/ethnic minorities and sexual/gender minorities.\n\n\n\nIdentitarian Framing of “Whataboutism” and Its Implications for Human Rights Debates\nwith Peter Thisted Dinesen and Kim Mannemar Sønderskov\n\n\nAbstract\n\nRecent scholarly work has analyzed the effects of “whataboutism,” a rhetorical argument often used by authoritarian states which deflects international criticism of human rights abuses by highlighting transgressions made by Western states. In this paper, we extend the literature on whataboutism in three ways. First, we examine the effects of whataboutism in a realistic, and therefore externally valid, scenario. Second, we test whether whataboutism shifts opinion on attitudes towards the universality of human rights, moving these to a position that is more favorable to authoritarian regimes. Lastly, we explore whether the effects of whataboutism vary by demographic traits such as disadvantaged status and ideological profile. In a framing experiment leveraging the debate over human rights which occurred during the 2022 World Cup, we find that, aligning with prior work, whataboutism decreases support for various types of intervention. We also find some limited evidence that whataboutism decreases support for the universality of human rights. Finally, we find that, in general, the effects of whataboutism do not differ based on disadvantaged status, but we do find that it is less effective on the most conservative people.\n\n\n\nUnder Pressure? Partisan Response to Party Brand Change\nsolo-authored · Working Paper"
   }
 ]

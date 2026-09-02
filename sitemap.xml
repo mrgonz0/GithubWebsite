@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://matthiasavina.com/research.html</loc>
-    <lastmod>2026-07-07T12:21:40.422Z</lastmod>
-  </url>
-  <url>
     <loc>https://matthiasavina.com/publications.html</loc>
-    <lastmod>2026-07-07T12:21:40.421Z</lastmod>
-  </url>
-  <url>
-    <loc>https://matthiasavina.com/cv.html</loc>
-    <lastmod>2026-07-07T12:21:40.421Z</lastmod>
+    <lastmod>2026-09-02T23:32:16.845Z</lastmod>
   </url>
   <url>
     <loc>https://matthiasavina.com/teaching.html</loc>
-    <lastmod>2026-07-07T12:21:40.422Z</lastmod>
+    <lastmod>2026-09-02T23:32:16.845Z</lastmod>
+  </url>
+  <url>
+    <loc>https://matthiasavina.com/cv.html</loc>
+    <lastmod>2026-09-02T23:32:16.845Z</lastmod>
   </url>
   <url>
     <loc>https://matthiasavina.com/index.html</loc>
-    <lastmod>2026-07-07T12:21:40.421Z</lastmod>
+    <lastmod>2026-09-02T23:32:16.845Z</lastmod>
+  </url>
+  <url>
+    <loc>https://matthiasavina.com/research.html</loc>
+    <lastmod>2026-09-02T23:32:16.845Z</lastmod>
   </url>
 </urlset>
