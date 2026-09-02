@@ -13,7 +13,7 @@ page-layout: full
 ## Matthias Avina
 
 
-I am a scholar of comparative political behavior and public opinion in advanced democracies, particularly Europe and the United States. My primary research agenda examines how parties communicate with voters through their brands and images, and how voters use this information when forming opinions of parties and candidates. A second research agenda, conducted as part of my postdoctoral work with Peter Thisted Dinesen, examines how identities and inequalities structure voting behavior and public opinion. My work has been published in the *European Journal of Political Research* and *Party Politics*.  
+I am a scholar of comparative political behavior and public opinion in advanced democracies, particularly Europe and the United States. My primary research agenda examines how parties communicate with voters through their brands and images, and, conversely, how voters use this information when forming opinions of parties and candidates. A second research agenda, conducted as part of my postdoctoral work with Peter Thisted Dinesen, examines how identities and inequalities structure voting behavior and public opinion. My work has been published in the *European Journal of Political Research* and *Party Politics*.  
 
 With Jae-Jae Spoon, I also co-developed the [Political Parties Logo Database](https://politicalpartieslogos-database.github.io/PPLD/), the first cross-national database of European party logos.
 
